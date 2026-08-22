@@ -1,128 +1,116 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390" fill="none">
-  <style>
-    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.h{font-size:11px;font-weight:700;letter-spacing:1.2px;fill:#CBD5E1}.s{font-size:8px;fill:#64748B}.c0{fill:#0B111B}.c1{fill:#164E63}.c2{fill:#0E7490}.c3{fill:#22D3EE}.c4{fill:#A5F3FC}
-    @keyframes p{50%{opacity:.55}} .hot{animation:p 2s ease-in-out infinite}
-  </style>
-  <rect x="1" y="1" width="898" height="388" rx="12" fill="#05070B" stroke="#fff" stroke-opacity=".1"/>
-  <text x="25" y="31" class="m h">GITHUB // ACTIVITY CONSOLE</text><text x="720" y="31" class="m s">AUTO-SYNC READY</text>
-  <text x="25" y="57" class="m s">LAST 15 WEEKS • LIVE CONTRIBUTION MATRIX</text>
-  <g transform="translate(55 80)">
-<rect x="0" y="0" width="23" height="23" rx="4" class="c0"/>
-<rect x="0" y="32" width="23" height="23" rx="4" class="c1"/>
-<rect x="0" y="64" width="23" height="23" rx="4" class="c0"/>
-<rect x="0" y="96" width="23" height="23" rx="4" class="c2"/>
-<rect x="0" y="128" width="23" height="23" rx="4" class="c1"/>
-<rect x="0" y="160" width="23" height="23" rx="4" class="c0"/>
-<rect x="0" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="32" y="0" width="23" height="23" rx="4" class="c1"/>
-<rect x="32" y="32" width="23" height="23" rx="4" class="c2"/>
-<rect x="32" y="64" width="23" height="23" rx="4" class="c1"/>
-<rect x="32" y="96" width="23" height="23" rx="4" class="c0"/>
-<rect x="32" y="128" width="23" height="23" rx="4" class="c3"/>
-<rect x="32" y="160" width="23" height="23" rx="4" class="c1"/>
-<rect x="32" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="64" y="0" width="23" height="23" rx="4" class="c0"/>
-<rect x="64" y="32" width="23" height="23" rx="4" class="c1"/>
-<rect x="64" y="64" width="23" height="23" rx="4" class="c3"/>
-<rect x="64" y="96" width="23" height="23" rx="4" class="c2"/>
-<rect x="64" y="128" width="23" height="23" rx="4" class="c0"/>
-<rect x="64" y="160" width="23" height="23" rx="4" class="c1"/>
-<rect x="64" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="96" y="0" width="23" height="23" rx="4" class="c2"/>
-<rect x="96" y="32" width="23" height="23" rx="4" class="c0"/>
-<rect x="96" y="64" width="23" height="23" rx="4" class="c1"/>
-<rect x="96" y="96" width="23" height="23" rx="4" class="c4 hot"/>
-<rect x="96" y="128" width="23" height="23" rx="4" class="c2"/>
-<rect x="96" y="160" width="23" height="23" rx="4" class="c0"/>
-<rect x="96" y="192" width="23" height="23" rx="4" class="c1"/>
-<rect x="128" y="0" width="23" height="23" rx="4" class="c0"/>
-<rect x="128" y="32" width="23" height="23" rx="4" class="c1"/>
-<rect x="128" y="64" width="23" height="23" rx="4" class="c2"/>
-<rect x="128" y="96" width="23" height="23" rx="4" class="c3"/>
-<rect x="128" y="128" width="23" height="23" rx="4" class="c1"/>
-<rect x="128" y="160" width="23" height="23" rx="4" class="c0"/>
-<rect x="128" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="160" y="0" width="23" height="23" rx="4" class="c1"/>
-<rect x="160" y="32" width="23" height="23" rx="4" class="c0"/>
-<rect x="160" y="64" width="23" height="23" rx="4" class="c0"/>
-<rect x="160" y="96" width="23" height="23" rx="4" class="c2"/>
-<rect x="160" y="128" width="23" height="23" rx="4" class="c4 hot"/>
-<rect x="160" y="160" width="23" height="23" rx="4" class="c1"/>
-<rect x="160" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="192" y="0" width="23" height="23" rx="4" class="c0"/>
-<rect x="192" y="32" width="23" height="23" rx="4" class="c2"/>
-<rect x="192" y="64" width="23" height="23" rx="4" class="c1"/>
-<rect x="192" y="96" width="23" height="23" rx="4" class="c0"/>
-<rect x="192" y="128" width="23" height="23" rx="4" class="c3"/>
-<rect x="192" y="160" width="23" height="23" rx="4" class="c2"/>
-<rect x="192" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="224" y="0" width="23" height="23" rx="4" class="c1"/>
-<rect x="224" y="32" width="23" height="23" rx="4" class="c3"/>
-<rect x="224" y="64" width="23" height="23" rx="4" class="c2"/>
-<rect x="224" y="96" width="23" height="23" rx="4" class="c1"/>
-<rect x="224" y="128" width="23" height="23" rx="4" class="c0"/>
-<rect x="224" y="160" width="23" height="23" rx="4" class="c0"/>
-<rect x="224" y="192" width="23" height="23" rx="4" class="c2"/>
-<rect x="256" y="0" width="23" height="23" rx="4" class="c0"/>
-<rect x="256" y="32" width="23" height="23" rx="4" class="c1"/>
-<rect x="256" y="64" width="23" height="23" rx="4" class="c4 hot"/>
-<rect x="256" y="96" width="23" height="23" rx="4" class="c2"/>
-<rect x="256" y="128" width="23" height="23" rx="4" class="c1"/>
-<rect x="256" y="160" width="23" height="23" rx="4" class="c3"/>
-<rect x="256" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="288" y="0" width="23" height="23" rx="4" class="c2"/>
-<rect x="288" y="32" width="23" height="23" rx="4" class="c0"/>
-<rect x="288" y="64" width="23" height="23" rx="4" class="c1"/>
-<rect x="288" y="96" width="23" height="23" rx="4" class="c3"/>
-<rect x="288" y="128" width="23" height="23" rx="4" class="c2"/>
-<rect x="288" y="160" width="23" height="23" rx="4" class="c1"/>
-<rect x="288" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="320" y="0" width="23" height="23" rx="4" class="c0"/>
-<rect x="320" y="32" width="23" height="23" rx="4" class="c2"/>
-<rect x="320" y="64" width="23" height="23" rx="4" class="c3"/>
-<rect x="320" y="96" width="23" height="23" rx="4" class="c1"/>
-<rect x="320" y="128" width="23" height="23" rx="4" class="c0"/>
-<rect x="320" y="160" width="23" height="23" rx="4" class="c2"/>
-<rect x="320" y="192" width="23" height="23" rx="4" class="c1"/>
-<rect x="352" y="0" width="23" height="23" rx="4" class="c1"/>
-<rect x="352" y="32" width="23" height="23" rx="4" class="c0"/>
-<rect x="352" y="64" width="23" height="23" rx="4" class="c2"/>
-<rect x="352" y="96" width="23" height="23" rx="4" class="c4 hot"/>
-<rect x="352" y="128" width="23" height="23" rx="4" class="c3"/>
-<rect x="352" y="160" width="23" height="23" rx="4" class="c0"/>
-<rect x="352" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="384" y="0" width="23" height="23" rx="4" class="c0"/>
-<rect x="384" y="32" width="23" height="23" rx="4" class="c1"/>
-<rect x="384" y="64" width="23" height="23" rx="4" class="c0"/>
-<rect x="384" y="96" width="23" height="23" rx="4" class="c2"/>
-<rect x="384" y="128" width="23" height="23" rx="4" class="c1"/>
-<rect x="384" y="160" width="23" height="23" rx="4" class="c3"/>
-<rect x="384" y="192" width="23" height="23" rx="4" class="c2"/>
-<rect x="416" y="0" width="23" height="23" rx="4" class="c2"/>
-<rect x="416" y="32" width="23" height="23" rx="4" class="c3"/>
-<rect x="416" y="64" width="23" height="23" rx="4" class="c1"/>
-<rect x="416" y="96" width="23" height="23" rx="4" class="c0"/>
-<rect x="416" y="128" width="23" height="23" rx="4" class="c2"/>
-<rect x="416" y="160" width="23" height="23" rx="4" class="c1"/>
-<rect x="416" y="192" width="23" height="23" rx="4" class="c0"/>
-<rect x="448" y="0" width="23" height="23" rx="4" class="c0"/>
-<rect x="448" y="32" width="23" height="23" rx="4" class="c1"/>
-<rect x="448" y="64" width="23" height="23" rx="4" class="c2"/>
-<rect x="448" y="96" width="23" height="23" rx="4" class="c3"/>
-<rect x="448" y="128" width="23" height="23" rx="4" class="c0"/>
-<rect x="448" y="160" width="23" height="23" rx="4" class="c1"/>
-<rect x="448" y="192" width="23" height="23" rx="4" class="c4 hot"/>
-  </g>
-  <g class="m s">
-    <text x="25" y="320">LESS</text><rect x="60" y="309" width="15" height="15" rx="3" class="c0"/><rect x="82" y="309" width="15" height="15" rx="3" class="c1"/><rect x="104" y="309" width="15" height="15" rx="3" class="c2"/><rect x="126" y="309" width="15" height="15" rx="3" class="c3"/><rect x="148" y="309" width="15" height="15" rx="3" class="c4"/><text x="173" y="320">MORE</text>
-  </g>
-  <g transform="translate(535 70)">
-    <rect x="0" y="0" width="330" height="220" rx="9" fill="#080D16" stroke="#fff" stroke-opacity=".06"/>
-    <text x="20" y="28" class="m h">PROFILE SIGNALS</text>
-    <text x="20" y="58" class="m s">PRIMARY LOOP</text><text x="20" y="80" class="m h">BUILD → BREAK → DEBUG</text>
-    <text x="20" y="112" class="m s">CURRENT INTEREST</text><text x="20" y="134" class="m h">GENERATIVE AI</text>
-    <text x="20" y="166" class="m s">ENVIRONMENT</text><text x="20" y="188" class="m h">LINUX + DOCKER</text>
-    <circle cx="288" cy="29" r="4" fill="#22C55E" class="hot"/>
-  </g>
-  <text x="25" y="365" class="m s">Activity visualization is refreshed by GitHub Actions. No fake contribution totals are embedded.</text>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.h{font-size:11px;font-weight:700;letter-spacing:1.2px;fill:#CBD5E1}.s{font-size:8px;fill:#64748B}@keyframes p{50%{opacity:.55}}.hot{animation:p 2s ease-in-out infinite}
+</style>
+<rect x="1" y="1" width="898" height="388" rx="12" fill="#05070B" stroke="#fff" stroke-opacity=".1"/>
+<text x="25" y="31" class="m h">GITHUB // ACTIVITY CONSOLE</text><text x="720" y="31" class="m s">LIVE SYNC</text>
+<text x="25" y="57" class="m s">LAST 15 WEEKS • CONTRIBUTION MATRIX • Saicharan-bit1616</text>
+<g transform="translate(55 80)"><rect x="0" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="0" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="0" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="0" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="0" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="0" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="0" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="32" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="32" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="32" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="32" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="32" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="32" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="32" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="64" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="64" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="64" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="64" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="64" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="64" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="64" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="96" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="96" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="96" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="96" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="96" y="128" width="23" height="23" rx="4" fill="#164E63"/>
+<rect x="96" y="160" width="23" height="23" rx="4" fill="#0E7490"/>
+<rect x="96" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="128" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="128" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="128" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="128" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="128" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="128" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="128" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="160" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="160" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="160" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="160" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="160" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="160" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="160" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="192" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="192" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="192" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="192" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="192" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="192" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="192" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="224" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="224" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="224" y="64" width="23" height="23" rx="4" fill="#A5F3FC" class="hot"/>
+<rect x="224" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="224" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="224" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="224" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="256" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="256" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="256" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="256" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="256" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="256" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="256" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="288" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="288" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="288" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="288" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="288" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="288" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="288" y="192" width="23" height="23" rx="4" fill="#22D3EE"/>
+<rect x="320" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="320" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="320" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="320" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="320" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="320" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="320" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="352" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="352" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="352" y="64" width="23" height="23" rx="4" fill="#164E63"/>
+<rect x="352" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="352" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="352" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="352" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="384" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="384" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="384" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="384" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="384" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="384" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="384" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="416" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="416" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="416" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="416" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="416" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="416" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="416" y="192" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="448" y="0" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="448" y="32" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="448" y="64" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="448" y="96" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="448" y="128" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="448" y="160" width="23" height="23" rx="4" fill="#0B111B"/>
+<rect x="448" y="192" width="23" height="23" rx="4" fill="#0E7490"/></g>
+<g class="m s"><text x="25" y="320">LESS</text><rect x="60" y="309" width="15" height="15" rx="3" fill="#0B111B"/><rect x="82" y="309" width="15" height="15" rx="3" fill="#164E63"/><rect x="104" y="309" width="15" height="15" rx="3" fill="#0E7490"/><rect x="126" y="309" width="15" height="15" rx="3" fill="#22D3EE"/><rect x="148" y="309" width="15" height="15" rx="3" fill="#A5F3FC"/><text x="173" y="320">MORE</text></g>
+<g transform="translate(535 70)"><rect x="0" y="0" width="330" height="220" rx="9" fill="#080D16" stroke="#fff" stroke-opacity=".06"/><text x="20" y="28" class="m h">PROFILE SIGNALS</text><text x="20" y="58" class="m s">ACCOUNT</text><text x="20" y="80" class="m h">Saicharan-bit1616</text><text x="20" y="112" class="m s">SYNC SOURCE</text><text x="20" y="134" class="m h">GITHUB CONTRIBUTIONS</text><text x="20" y="166" class="m s">UPDATE MODE</text><text x="20" y="188" class="m h">GITHUB ACTIONS</text><circle cx="288" cy="29" r="4" fill="#22C55E" class="hot"/></g>
+<text x="25" y="365" class="m s">Generated from the public GitHub contribution calendar. No fake contribution totals are embedded.</text>
 </svg>
