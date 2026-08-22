@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" fill="none">
+  <style>
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.h{font-size:10px;font-weight:700;letter-spacing:1.2px;fill:#CBD5E1}.s{font-size:8px;letter-spacing:.5px;fill:#64748B}.v{font-size:15px;font-weight:700;fill:#E2E8F0}
+    @keyframes wave{to{stroke-dashoffset:-700}} @keyframes bar{50%{width:160px}} @keyframes blink{50%{opacity:.3}} .wave{stroke-dasharray:6 12;animation:wave 5s linear infinite}.live{animation:blink 1.8s infinite}
+  </style>
+  <rect x="1" y="1" width="898" height="258" rx="12" fill="#05070B" stroke="#fff" stroke-opacity=".1"/>
+  <text x="24" y="29" class="m h">AI.DEVELOPER // TELEMETRY</text><circle cx="245" cy="25" r="3" fill="#22C55E" class="live"/><text x="255" y="29" class="m s">LIVE CHANNEL</text>
+  <g>
+    <rect x="24" y="49" width="202" height="75" rx="8" fill="#080D16" stroke="#22D3EE" stroke-opacity=".14"/><text x="39" y="69" class="m s">FOCUS</text><text x="39" y="94" class="m v">GEN_AI</text><text x="39" y="111" class="m s">RAG / AGENTS / LLM APPS</text>
+    <rect x="239" y="49" width="202" height="75" rx="8" fill="#080D16" stroke="#818CF8" stroke-opacity=".14"/><text x="254" y="69" class="m s">BUILD MODE</text><text x="254" y="94" class="m v">SHIP</text><text x="254" y="111" class="m s">PROTOTYPE → PRODUCT</text>
+    <rect x="454" y="49" width="202" height="75" rx="8" fill="#080D16" stroke="#A78BFA" stroke-opacity=".14"/><text x="469" y="69" class="m s">ENVIRONMENT</text><text x="469" y="94" class="m v">LINUX</text><text x="469" y="111" class="m s">FEDORA / DOCKER / GIT</text>
+    <rect x="669" y="49" width="207" height="75" rx="8" fill="#080D16" stroke="#22D3EE" stroke-opacity=".14"/><text x="684" y="69" class="m s">STATUS</text><text x="684" y="94" class="m v">BUILDING</text><text x="684" y="111" class="m s">LEARN / DEBUG / REPEAT</text>
+  </g>
+  <text x="24" y="151" class="m s">SIGNAL / DEVELOPMENT FLOW</text>
+  <path d="M25 191 C75 160 105 220 150 185 S225 175 270 195 S350 215 400 178 S475 160 520 191 S600 215 645 179 S720 160 770 190 S830 210 875 176" stroke="#22D3EE" stroke-opacity=".15" fill="none"/>
+  <path d="M25 191 C75 160 105 220 150 185 S225 175 270 195 S350 215 400 178 S475 160 520 191 S600 215 645 179 S720 160 770 190 S830 210 875 176" class="wave" stroke="url(#grad)" fill="none"/>
+  <defs><linearGradient id="grad" x1="25" y1="190" x2="875" y2="190"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+  <text x="25" y="232" class="m s">INPUT</text><text x="75" y="232" class="m h">IDEA</text><text x="250" y="232" class="m s">PROCESS</text><text x="310" y="232" class="m h">BUILD</text><text x="485" y="232" class="m s">TEST</text><text x="530" y="232" class="m h">DEBUG</text><text x="700" y="232" class="m s">OUTPUT</text><text x="755" y="232" class="m h">SHIP</text>
+</svg>

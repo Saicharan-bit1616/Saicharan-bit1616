@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" fill="none">
+  <style>
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}.title{font-size:11px;font-weight:700;letter-spacing:1.5px;fill:#CBD5E1}.label{font-size:9px;letter-spacing:.5px;fill:#94A3B8}.tag{font-size:9px;fill:#E2E8F0}
+    @keyframes glow{50%{stroke-opacity:.55;fill:#0B1322}} @keyframes float{50%{transform:translateY(-3px)}} .card{animation:glow 3.5s ease-in-out infinite}.f{animation:float 4s ease-in-out infinite}
+  </style>
+  <rect x="1" y="1" width="898" height="308" rx="12" fill="#05070B" stroke="#fff" stroke-opacity=".1"/>
+  <text x="25" y="31" class="m title">STACK.MAP // CHINNI_SAI_CHARAN</text>
+  <text x="25" y="49" class="m label">tools I use, learn and build with</text>
+  <g class="card">
+    <rect x="25" y="68" width="270" height="100" rx="8" fill="#080D16" stroke="#22D3EE" stroke-opacity=".18"/><text x="42" y="91" class="m title">AI / ML</text>
+    <text x="42" y="116" class="m tag">Python   •   GenAI   •   LLMs</text><text x="42" y="139" class="m tag">RAG   •   Agents   •   NLP</text><text x="42" y="157" class="m label">Prompt Engineering / Deep Learning</text>
+    <rect x="315" y="68" width="270" height="100" rx="8" fill="#080D16" stroke="#818CF8" stroke-opacity=".18"/><text x="332" y="91" class="m title">SOFTWARE / WEB</text>
+    <text x="332" y="116" class="m tag">JavaScript   •   React   •   Node</text><text x="332" y="139" class="m tag">FastAPI   •   REST APIs   •   HTML/CSS</text><text x="332" y="157" class="m label">Product interfaces / backend systems</text>
+    <rect x="605" y="68" width="270" height="100" rx="8" fill="#080D16" stroke="#A78BFA" stroke-opacity=".18"/><text x="622" y="91" class="m title">LANGUAGES</text>
+    <text x="622" y="116" class="m tag">Python   •   Java   •   C / C++</text><text x="622" y="139" class="m tag">JavaScript   •   SQL</text><text x="622" y="157" class="m label">Algorithms / data / application logic</text>
+  </g>
+  <g class="f">
+    <rect x="25" y="188" width="270" height="96" rx="8" fill="#080D16" stroke="#22D3EE" stroke-opacity=".14"/><text x="42" y="211" class="m title">DATA</text><text x="42" y="238" class="m tag">MySQL   •   PostgreSQL   •   MongoDB</text><text x="42" y="260" class="m label">Storage / analytics / application data</text>
+    <rect x="315" y="188" width="270" height="96" rx="8" fill="#080D16" stroke="#818CF8" stroke-opacity=".14"/><text x="332" y="211" class="m title">DEVOPS</text><text x="332" y="238" class="m tag">Git   •   GitHub   •   Docker</text><text x="332" y="260" class="m label">Actions / containers / reproducible builds</text>
+    <rect x="605" y="188" width="270" height="96" rx="8" fill="#080D16" stroke="#A78BFA" stroke-opacity=".14"/><text x="622" y="211" class="m title">SYSTEMS</text><text x="622" y="238" class="m tag">Fedora Linux   •   Hyprland   •   Bash</text><text x="622" y="260" class="m label">Linux-first development environment</text>
+  </g>
+</svg>

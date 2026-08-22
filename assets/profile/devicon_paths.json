@@ -1,0 +1,8 @@
+{
+  "note": "Local profile metadata for the technologies represented in tech_grid.svg.",
+  "technologies": [
+    "python", "java", "c", "cpp", "javascript", "sql",
+    "react", "nodejs", "fastapi", "mysql", "postgresql", "mongodb",
+    "git", "github", "docker", "linux", "bash"
+  ]
+}

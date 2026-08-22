@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="90" viewBox="0 0 330 90" fill="none">
+  <defs><linearGradient id="g" x1="35" y1="20" x2="295" y2="70"><stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#818CF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+  <style>
+    .sig{stroke:url(#g);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:900;stroke-dashoffset:900;animation:draw 6s cubic-bezier(.42,0,.58,1) infinite}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;font-size:8px;letter-spacing:2px;fill:#64748B}@keyframes draw{0%,5%{stroke-dashoffset:900;opacity:0}12%{opacity:1}55%,88%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+  </style>
+  <path d="M34 62 C42 16 58 17 51 50 C48 64 43 69 57 60 C72 50 83 25 79 51 C77 61 82 65 94 56 C105 47 113 33 111 55 C109 65 119 62 130 52 C141 42 149 32 146 54 C144 64 154 57 165 48 C177 38 185 28 182 52 C180 61 191 60 204 50 C215 41 223 31 220 54 C218 63 231 60 242 51 C254 42 260 34 259 51 C258 61 269 58 281 48" class="sig"/>
+  <text x="40" y="79" class="m">BUILD • LEARN • SHIP</text>
+</svg>

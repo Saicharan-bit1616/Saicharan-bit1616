@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" fill="none">
+  <defs>
+    <linearGradient id="accent" x1="80" y1="40" x2="820" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/><stop offset="0.48" stop-color="#818CF8"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="orb"><stop stop-color="#22D3EE" stop-opacity=".24"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#fff" stroke-opacity=".045" stroke-width="1"/></pattern>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+      .sans{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+      @keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(400px)}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+      @keyframes pulse{0%,100%{opacity:.2;r:3}50%{opacity:1;r:5}}
+      @keyframes dash{to{stroke-dashoffset:-800}}
+      @keyframes blink{0%,45%{opacity:1}46%,100%{opacity:0}}
+      .scan{animation:scan 7s linear infinite}
+      .float{animation:float 4s ease-in-out infinite}
+      .node{animation:pulse 2.4s ease-in-out infinite}
+      .flow{stroke-dasharray:8 16;animation:dash 5s linear infinite}
+      .cursor{animation:blink 1s steps(1) infinite}
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="358" rx="14" fill="#05070B" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <rect width="900" height="360" fill="url(#grid)"/>
+  <circle cx="690" cy="100" r="210" fill="url(#orb)"/>
+  <rect x="0" y="70" width="900" height="2" fill="url(#accent)" opacity=".12" class="scan"/>
+
+  <g opacity=".65" class="float">
+    <circle cx="675" cy="115" r="48" stroke="#22D3EE" stroke-opacity=".2"/>
+    <circle cx="675" cy="115" r="88" stroke="#818CF8" stroke-opacity=".13" stroke-dasharray="3 8"/>
+    <circle cx="675" cy="115" r="130" stroke="#A78BFA" stroke-opacity=".09" stroke-dasharray="1 10"/>
+    <path d="M675 115L760 65M675 115L785 160M675 115L610 205M675 115L565 85" class="flow" stroke="url(#accent)" stroke-opacity=".55"/>
+    <circle cx="760" cy="65" r="4" fill="#22D3EE" class="node"/>
+    <circle cx="785" cy="160" r="4" fill="#818CF8" class="node"/>
+    <circle cx="610" cy="205" r="4" fill="#A78BFA" class="node"/>
+    <circle cx="565" cy="85" r="4" fill="#22D3EE" class="node"/>
+    <circle cx="675" cy="115" r="7" fill="#05070B" stroke="#22D3EE" filter="url(#glow)"/>
+  </g>
+
+  <text x="60" y="66" class="mono" font-size="11" letter-spacing="3" fill="#64748B">PROFILE // AI.DEVELOPER.NODE_01</text>
+  <text x="60" y="154" class="sans" font-size="42" font-weight="900" letter-spacing="3" fill="url(#accent)">CHINNI SAI CHARAN</text>
+  <text x="62" y="187" class="mono" font-size="13" letter-spacing="5" fill="#CBD5E1">AI • SOFTWARE • SYSTEMS</text>
+
+  <g class="mono" font-size="11">
+    <text x="62" y="232" fill="#22D3EE">&gt;</text><text x="78" y="232" fill="#94A3B8">building intelligent systems that actually ship</text><rect x="435" y="221" width="6" height="14" rx="1" fill="#22D3EE" class="cursor"/>
+    <text x="62" y="258" fill="#818CF8">&gt;</text><text x="78" y="258" fill="#64748B">GEN_AI</text><text x="145" y="258" fill="#E2E8F0">RAG / AGENTS / LLMs</text>
+    <text x="62" y="282" fill="#818CF8">&gt;</text><text x="78" y="282" fill="#64748B">STACK</text><text x="145" y="282" fill="#E2E8F0">PYTHON / WEB / DOCKER / LINUX</text>
+  </g>
+
+  <g class="mono" font-size="9">
+    <rect x="60" y="310" width="112" height="25" rx="5" fill="#0B1220" stroke="#22D3EE" stroke-opacity=".22"/><text x="74" y="326" fill="#67E8F9">● AI_BUILDER</text>
+    <rect x="182" y="310" width="112" height="25" rx="5" fill="#0B1220" stroke="#818CF8" stroke-opacity=".22"/><text x="196" y="326" fill="#A5B4FC">● OPEN_TO_BUILD</text>
+    <rect x="304" y="310" width="104" height="25" rx="5" fill="#0B1220" stroke="#A78BFA" stroke-opacity=".22"/><text x="318" y="326" fill="#C4B5FD">● SHIP_MODE</text>
+  </g>
+</svg>

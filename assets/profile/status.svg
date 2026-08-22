@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="38" viewBox="0 0 900 38" fill="none">
+  <style>
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;font-size:10px;letter-spacing:1px}
+    @keyframes blink{50%{opacity:.25}} @keyframes dash{to{stroke-dashoffset:-900}}
+    .dot{animation:blink 1.4s ease-in-out infinite}.pulse{stroke-dasharray:70 830;animation:dash 3s linear infinite}
+  </style>
+  <rect x="1" y="1" width="898" height="36" rx="7" fill="#070A10" stroke="#fff" stroke-opacity=".08"/>
+  <text x="15" y="24" class="m" fill="#64748B">SYS.PULSE</text>
+  <circle cx="93" cy="19" r="4" fill="#22C55E" class="dot"/><text x="104" y="24" class="m" fill="#94A3B8">ONLINE</text>
+  <path d="M175 19H300L307 19L312 10L317 29L322 19H430L435 19L440 14L445 24L450 19H610" stroke="#22D3EE" stroke-opacity=".12"/>
+  <path d="M175 19H300L307 19L312 10L317 29L322 19H430L435 19L440 14L445 24L450 19H610" class="pulse" stroke="#22D3EE" stroke-width="1.5"/>
+  <text x="640" y="24" class="m" fill="#64748B">BUILD_STATE</text><text x="733" y="24" class="m" fill="#67E8F9">READY</text>
+  <text x="800" y="24" class="m" fill="#475569">v1.0</text>
+</svg>
